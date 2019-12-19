@@ -1,0 +1,23 @@
+/* .red {
+    color: red;
+}
+
+.green {
+    color: greenyellow;
+}
+
+#vert {
+    color: greenyellow;
+}
+
+#rouge {
+    color: red;
+} */
+
+.visible {
+    display:inherit;    
+}
+
+.invisible {
+    display: none;
+}

@@ -1,0 +1,61 @@
+/* *{
+    margin: 0%;
+}
+#div1 {
+    background-color: yellow;
+}
+
+#div2{
+    background-color: green;
+}
+
+#div3 {
+    background-color: pink;
+}
+
+@media (min-width: 800px){
+    #div1 {
+        background-color: violet;
+    }
+    
+    #div2{
+        background-color: blue;
+    }
+    
+    #div3 {
+        background-color: tomato;
+    }
+} */
+
+/* *{
+    margin: 0%;
+}
+#div1 {
+    background-color: yellow;
+}
+
+#div2{
+    background-color: green;
+}
+
+#div3 {
+    background-color: pink;
+}
+
+@media (min-width: 756px){
+    #section{
+        display: flex;
+
+    }
+    #div1 {
+        background-color: violet;
+    }
+    
+    #div2{
+        background-color: blue;
+    }
+    
+    #div3 {
+        background-color: tomato;
+    }
+} */
